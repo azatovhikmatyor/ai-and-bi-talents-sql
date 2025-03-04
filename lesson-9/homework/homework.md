@@ -30,3 +30,43 @@ EmployeeID | ManagerID | JobTitle | Depth
 6006       | 2002      | Engineer | 2
 
 ---
+
+### Task 2
+
+Find Factorials up to $N$.
+
+Expected output for $N = 10$:
+
+Num	|Factorial
+----|---------
+1	|1
+2	|2
+3	|6
+4	|24
+5	|120
+6	|720
+7	|5040
+8	|40320
+9	|362880
+10	|3628800
+
+
+---
+
+### Task 3
+Find Fibonacci numbers up to $N$.
+
+Expected output for $N = 10$:
+
+n	|Fibonacci_Number
+----|----------------
+1	|1
+2	|1
+3	|2
+4	|3
+5	|5
+6	|8
+7	|13
+8	|21
+9	|34
+10	|55
